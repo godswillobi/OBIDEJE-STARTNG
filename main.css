@@ -1,0 +1,49 @@
+
+    p { 
+colour: normal;
+letter- spacing: 0 . 5 em ;
+word - spacing: 2 em ;
+line - height: 1 . 5 ;
+text - align : justify;
+}
+
+a {
+ colour: blue;
+text - decoration : none ;<
+word - spacing: 2 em ;
+line - height: 1 . 5 ;
+text - align : center;
+}
+
+h1,h2,h3, {
+Color: normal.;
+font-family: arial, helvetica, sans-serif;
+font-style: normal;
+font-weight: bold;
+word - spacing: 2 em ;
+line - height: 1 . 5 ;
+text - align : center;
+margin: 10 px ;
+padding: 20 px ;
+//.}
+
+body {
+font - size : 14 px ;
+color: black ;
+background-color: pink; 
+url("https://res.cloudinary.com/godswill/image/upload/v1566685430/samples/Slack/godswill_t2429i.jpg") no - repeat left-top;
+font-family: arial, helvetica, sans-serif;
+font-style: normal;
+font-weight: normal;
+word - spacing: 2 em ;
+line - height: 1 . 5 ;
+text - align : justify;
+}
+.obi, tr, td {
+border: 4px solid grey;
+}
+<style>
+table,th,td {
+border: 1px solid black;
+}
+</style>
